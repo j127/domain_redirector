@@ -12,6 +12,10 @@ You will have to connect the site to the domain's project in Cloudflare Pages. Y
 npx wrangler pages project list
 ```
 
+## Configure
+
+Change all instances of `example.com` to your domain name. (Search all the files for that string.)
+
 ## Build and Deploy
 
 ```text
