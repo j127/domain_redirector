@@ -1,0 +1,35 @@
+# netlify
+.netlify/
+
+.env
+.envrc
+dist/
+build/
+.cache/
+.mypy_cache/
+.parcel-cache/
+.netlify/
+
+*.bak
+*.orig
+*PENDING_DELETION*
+
+# Editors
+*~
+tags
+tags.*
+.idea/
+.vscode/
+.vim/
+*.sw[op]
+
+# Python
+*.py[cod]
+__pycache__/
+.venv/
+
+# Ruby
+/.bundle
+
+# Node
+node_modules/

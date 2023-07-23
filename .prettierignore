@@ -1,0 +1,18 @@
+# netlify
+.netlify/
+
+# output directories
+dist/
+
+# developer tools
+.git/
+node_modules/
+__pycache__/
+.vim/
+.vscode/
+.idea/
+
+# caches
+.cache/
+.parcel-cache/
+.mypy_cache/
